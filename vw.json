@@ -1,0 +1,14 @@
+[
+  {
+    "Domain Name": "MV1",
+    "Owner": "mv1",
+    "Visit": "hifi://18.204.169.160:40102/",
+    "People": 0
+  },
+  {
+    "Domain Name": "MV2",
+    "Owner": "mv2",
+    "Visit": "hifi://100.26.58.33:40102/",
+    "People": 0
+  }
+]
